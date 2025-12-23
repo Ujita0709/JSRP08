@@ -1,13 +1,8 @@
 import { useState } from 'react'
+import PracticeFinal from "./PracticeFinal"
 
 function App() {
-  const [count, setCount] = useState(0)
-
-  return (
-    <>
-      
-    </>
-  )
+    return <PracticeFinal />
 }
 
 export default App
